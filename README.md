@@ -1,2 +1,3 @@
-# Pip-ly
-A URL-Shortner application
+
+This is a url shortner
+
